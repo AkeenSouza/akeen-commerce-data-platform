@@ -1,7 +1,7 @@
 # 02 - Arquitetura da Plataforma
 
 # Arquitetura Geral
-
+--teste
 ## Objetivo
 
 Este documento descreve a arquitetura da **Akeen Commerce Data Platform (ACDP)**.
